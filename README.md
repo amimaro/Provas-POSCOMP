@@ -1,7 +1,5 @@
 # Provas da POSCOMP sem marcação das respostas
 
-Fico a disposição, caso precisem ajustar questões marcadas em provas de concursos, podem entrar em contato comigo pelo email no perfil.
-
 ## Provas disponíveis:
 * 2017
 * 2016
