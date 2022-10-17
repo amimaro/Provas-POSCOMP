@@ -46,6 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
+      <td align="center"><a href="https://github.com/hatsumi2301"><img src="https://avatars.githubusercontent.com/u/26016809?v=4?s=100" width="100px;" alt="Hatsumi"/><br /><sub><b>Hatsumi</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=hatsumi2301" title="Code">💻</a></td>
       <td align="center"><a href="http://luna.ac"><img src="https://avatars.githubusercontent.com/u/12521100?v=4?s=100" width="100px;" alt="Felipe Augusto"/><br /><sub><b>Felipe Augusto</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=f2acode" title="Code">💻</a></td>
       <td align="center"><a href="https://brunosousadev.github.io/"><img src="https://avatars.githubusercontent.com/u/18225006?v=4?s=100" width="100px;" alt="Bruno Sousa"/><br /><sub><b>Bruno Sousa</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=brunosousadev" title="Code">💻</a></td>
       <td align="center"><a href="https://oliveiraleo.github.io/"><img src="https://avatars.githubusercontent.com/u/25849028?v=4?s=100" width="100px;" alt="Leo"/><br /><sub><b>Leo</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=oliveiraleo" title="Code">💻</a></td>

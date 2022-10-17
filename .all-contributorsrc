@@ -7,6 +7,15 @@
   "commitConvention": "angular",
   "contributors": [
       {
+      "login": "hatsumi2301",
+      "name": "Hatsumi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26016809?v=4",
+      "profile": "https://github.com/hatsumi2301",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "f2acode",
       "name": "Felipe Augusto",
       "avatar_url": "https://avatars.githubusercontent.com/u/12521100?v=4",
