@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "f2acode",
+      "name": "Felipe Augusto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12521100?v=4",
+      "profile": "http://luna.ac",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Provas-POSCOMP",
+  "projectOwner": "amimaro"
+}
