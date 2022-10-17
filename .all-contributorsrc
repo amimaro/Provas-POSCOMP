@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "brunosousadev",
+      "name": "Bruno Sousa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18225006?v=4",
+      "profile": "https://brunosousadev.github.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Provas-POSCOMP",
+  "projectOwner": "amimaro"
+}
