@@ -6,11 +6,38 @@
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
-    {
+      {
       "login": "hatsumi2301",
       "name": "Hatsumi",
       "avatar_url": "https://avatars.githubusercontent.com/u/26016809?v=4",
       "profile": "https://github.com/hatsumi2301",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "f2acode",
+      "name": "Felipe Augusto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12521100?v=4",
+      "profile": "http://luna.ac",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "oliveiraleo",
+      "name": "Leo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25849028?v=4",
+      "profile": "https://oliveiraleo.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "brunosousadev",
+      "name": "Bruno Sousa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18225006?v=4",
+      "profile": "https://brunosousadev.github.io/",
       "contributions": [
         "code"
       ]
