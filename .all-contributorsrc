@@ -7,6 +7,15 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "oliveiraleo",
+      "name": "Leo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25849028?v=4",
+      "profile": "https://oliveiraleo.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "brunosousadev",
       "name": "Bruno Sousa",
       "avatar_url": "https://avatars.githubusercontent.com/u/18225006?v=4",
