@@ -7,6 +7,7 @@
 
 |   Ano    |                            Arquivos                                            |
 |----------|--------------------------------------------------------------------------------|
+| 2022     | [Prova](./2022/caderno_2022.pdf) -  [Gabarito](./2022/gabarito-2022.pdf)  |
 | 2019     | [Prova](./2019/caderno_2019.pdf) -  [Gabarito](./2019/gabarito-2019.pdf)  |
 | 2018     | [Prova](./2018/caderno_2018.pdf) -  [Gabarito](./2018/gabarito_2018.pdf)  |
 | 2017     | [Prova](./2017/caderno_2017.pdf) -  [Gabarito](./2017/gabarito-2017.pdf)  |
