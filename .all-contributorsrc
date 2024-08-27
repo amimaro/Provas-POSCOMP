@@ -6,7 +6,7 @@
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
-      {
+    {
       "login": "hatsumi2301",
       "name": "Hatsumi",
       "avatar_url": "https://avatars.githubusercontent.com/u/26016809?v=4",
@@ -41,6 +41,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "fernandollisboa",
+      "name": "Fernando Lisboa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55773308?v=4",
+      "profile": "http://linkedin.com/in/fernandollisboa/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -48,5 +57,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "Provas-POSCOMP",
-  "projectOwner": "amimaro"
+  "projectOwner": "amimaro",
+  "commitType": "docs"
 }

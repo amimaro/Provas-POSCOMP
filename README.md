@@ -1,6 +1,6 @@
 # Provas da POSCOMP sem marcação das respostas
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Provas disponíveis
@@ -48,10 +48,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/hatsumi2301"><img src="https://avatars.githubusercontent.com/u/26016809?v=4?s=100" width="100px;" alt="Hatsumi"/><br /><sub><b>Hatsumi</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=hatsumi2301" title="Code">💻</a></td>
-      <td align="center"><a href="http://luna.ac"><img src="https://avatars.githubusercontent.com/u/12521100?v=4?s=100" width="100px;" alt="Felipe Augusto"/><br /><sub><b>Felipe Augusto</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=f2acode" title="Code">💻</a></td>
-      <td align="center"><a href="https://brunosousadev.github.io/"><img src="https://avatars.githubusercontent.com/u/18225006?v=4?s=100" width="100px;" alt="Bruno Sousa"/><br /><sub><b>Bruno Sousa</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=brunosousadev" title="Code">💻</a></td>
-      <td align="center"><a href="https://oliveiraleo.github.io/"><img src="https://avatars.githubusercontent.com/u/25849028?v=4?s=100" width="100px;" alt="Leo"/><br /><sub><b>Leo</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=oliveiraleo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hatsumi2301"><img src="https://avatars.githubusercontent.com/u/26016809?v=4?s=100" width="100px;" alt="Hatsumi"/><br /><sub><b>Hatsumi</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=hatsumi2301" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://luna.ac"><img src="https://avatars.githubusercontent.com/u/12521100?v=4?s=100" width="100px;" alt="Felipe Augusto"/><br /><sub><b>Felipe Augusto</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=f2acode" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://oliveiraleo.github.io/"><img src="https://avatars.githubusercontent.com/u/25849028?v=4?s=100" width="100px;" alt="Leo"/><br /><sub><b>Leo</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=oliveiraleo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://brunosousadev.github.io/"><img src="https://avatars.githubusercontent.com/u/18225006?v=4?s=100" width="100px;" alt="Bruno Sousa"/><br /><sub><b>Bruno Sousa</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=brunosousadev" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/fernandollisboa/"><img src="https://avatars.githubusercontent.com/u/55773308?v=4?s=100" width="100px;" alt="Fernando Lisboa"/><br /><sub><b>Fernando Lisboa</b></sub></a><br /><a href="#content-fernandollisboa" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
