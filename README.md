@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-##### Você pode praticar essas provas online e obter uma análise detalhada do seu desempenho no site [https://webquestoes.com](https://www.webquestoes.com/?utm_source=github).
+##### Você pode praticar em simulados online e obter uma análise detalhada do seu desempenho no site [https://webquestoes.com](https://www.webquestoes.com/?utm_source=github).
 
 ## Provas disponíveis
 
@@ -31,7 +31,7 @@
 | 2003     | [Prova](./2003/caderno_2003.pdf) -  [Gabarito](./2003/gabarito-2003.pdf)  |
 | 2002     | [Prova](./2002/caderno_fundamentos_2002.pdf) -  [Gabarito](./2002/gabarito-2002.pdf)  |
 
-##### Você pode praticar essas provas online e obter uma análise detalhada do seu desempenho no site [https://webquestoes.com](https://www.webquestoes.com/?utm_source=github).
+##### Você pode praticar em simulados online e obter uma análise detalhada do seu desempenho no site [https://webquestoes.com](https://www.webquestoes.com/?utm_source=github).
 
 *Bons Estudos!!*
 
