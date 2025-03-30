@@ -33,7 +33,7 @@ O **WebQuestões** é uma plataforma online desenvolvida especialmente para estu
 
 ### 📝 Como Começar
 
-1. Acesse [webquestoes.com]([https://webquestoes.com](https://www.webquestoes.com/?utm_source=github))
+1. Acesse [webquestoes.com](https://www.webquestoes.com/?utm_source=github))
 2. Crie sua conta gratuita
 3. Explore o conteúdo disponível ou assine um plano
 4. Comece seus estudos para a POSCOMP!
