@@ -1,6 +1,6 @@
 # Provas da POSCOMP sem marcação das respostas
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Conheça nossa plataforma de simulados para POSCOMP](WEBQUESTOES.md)
@@ -9,6 +9,7 @@
 
 |   Ano    |                            Arquivos                                            |
 |----------|--------------------------------------------------------------------------------|
+| 2025     | [Prova](./2025/caderno_2025.pdf) -  [Gabarito](./2025/gabarito_2025.pdf)  |
 | 2024     | [Prova](./2024/caderno_2024.pdf) -  [Gabarito](./2024/gabarito_2024.pdf)  |
 | 2023     | [Prova](./2023/caderno_2023.pdf) -  [Gabarito](./2023/gabarito_2023.pdf)  |
 | 2022     | [Prova](./2022/caderno_2022.pdf) -  [Gabarito](./2022/gabarito-2022.pdf)  |
@@ -54,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://brunosousadev.github.io/"><img src="https://avatars.githubusercontent.com/u/18225006?v=4?s=100" width="100px;" alt="Bruno Sousa"/><br /><sub><b>Bruno Sousa</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=brunosousadev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/fernandollisboa/"><img src="https://avatars.githubusercontent.com/u/55773308?v=4?s=100" width="100px;" alt="Fernando Lisboa"/><br /><sub><b>Fernando Lisboa</b></sub></a><br /><a href="#content-fernandollisboa" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/jean-carlos-martins/"><img src="https://avatars.githubusercontent.com/u/86752469?v=4?s=100" width="100px;" alt="Jean Carlos Magalhães"/><br /><sub><b>Jean Carlos Magalhães</b></sub></a><br /><a href="#content-jeanmartins" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/bruno-pereira-carvalho/"><img src="https://avatars.githubusercontent.com/u/55327366?v=4?s=100" width="100px;" alt="Bruno Pereira Carvalho"/><br /><sub><b>Bruno Pereira Carvalho</b></sub></a><br /><a href="#content-perera2k4" title="Content">💻</a></td>
     </tr>
   </tbody>
 </table>
