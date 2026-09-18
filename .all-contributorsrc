@@ -68,6 +68,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "josejefferson",
+      "name": "Jefferson Dantas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52979246?v=4",
+      "profile": "https://jeffersondantas.vercel.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

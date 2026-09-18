@@ -1,6 +1,6 @@
 # Provas da POSCOMP sem marcação das respostas
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Conheça nossa plataforma de simulados para POSCOMP](WEBQUESTOES.md)
@@ -60,7 +60,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://brunosousadev.github.io/"><img src="https://avatars.githubusercontent.com/u/18225006?v=4?s=100" width="100px;" alt="Bruno Sousa"/><br /><sub><b>Bruno Sousa</b></sub></a><br /><a href="https://github.com/amimaro/Provas-POSCOMP/commits?author=brunosousadev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/fernandollisboa/"><img src="https://avatars.githubusercontent.com/u/55773308?v=4?s=100" width="100px;" alt="Fernando Lisboa"/><br /><sub><b>Fernando Lisboa</b></sub></a><br /><a href="#content-fernandollisboa" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/jean-carlos-martins/"><img src="https://avatars.githubusercontent.com/u/86752469?v=4?s=100" width="100px;" alt="Jean Carlos Magalhães"/><br /><sub><b>Jean Carlos Magalhães</b></sub></a><br /><a href="#content-jeanmartins" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/bruno-pereira-carvalho/"><img src="https://avatars.githubusercontent.com/u/55327366?v=4?s=100" width="100px;" alt="Bruno Pereira Carvalho"/><br /><sub><b>Bruno Pereira Carvalho</b></sub></a><br /><a href="#content-perera2k4" title="Content">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/bruno-pereira-carvalho/"><img src="https://avatars.githubusercontent.com/u/55327366?v=4?s=100" width="100px;" alt="Bruno Pereira Carvalho"/><br /><sub><b>Bruno Pereira Carvalho</b></sub></a><br /><a href="#content-perera2k4" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://jeffersondantas.vercel.app"><img src="https://avatars.githubusercontent.com/u/52979246?v=4?s=100" width="100px;" alt="Jefferson Dantas"/><br /><sub><b>Jefferson Dantas</b></sub></a><br /><a href="#content-josejefferson" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
